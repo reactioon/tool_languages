@@ -159,7 +159,7 @@ $lang["blockbot_action_play"] = "Start";
 $lang["blockbot_action_stop"] = "Stop";
 $lang["blockbot_action_remove"] = "Remove";
 $lang["blockbot_action_edit"] = "Edit";
-$lang["blockbot_action_edit"] = "Renew";
+$lang["blockbot_action_renew"] = "Renew";
 
 $lang["blockbot_avaiable_title"] = "Available actions";
 $lang["blockbot_avaiable_action_buy"] = "Buy";
