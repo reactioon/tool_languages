@@ -1,9 +1,12 @@
-# language
+# Language
+
+```
 name: English US
 symbol: en-us
+```
 
-# contributors
-José Wilker <josewilker@reactioon.com>
-Darik <darikam@gmail.com>
-Marco casarolli <mcasarolli@gmail.com>
+# Contributors
+- José Wilker <josewilker@reactioon.com>
+- Darik <darikam@gmail.com>
+- Marco casarolli <mcasarolli@gmail.com>
 
