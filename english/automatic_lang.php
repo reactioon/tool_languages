@@ -80,7 +80,7 @@ $lang["modal_form_label_riskscale"] = "Risk scale";
 $lang["modal_form_label_datestart"] = "Date start";
 $lang["modal_form_label_dateend"] = "Date end";
 $lang["modal_form_label_totalcredits"] = "Total credits";
-
+$lang["modal_form_label_uniquename"] = "Unique name";
 $lang["modal_form_button_calculaterisk"] = "Calculate risk";
 
 $lang["modal_form_risk_text_notcalculated"] = "Not calculated";
