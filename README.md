@@ -46,8 +46,8 @@ Everyone can change this repository and contribute with languages of reactioon.
 
 ## Symbols
 
-- pt-br (Portuguese / Brazil)
-- en-us (English / United States)
+- ptbr (Portuguese / Brazil)
+- enus (English / United States)
 
 
 ## Contributors

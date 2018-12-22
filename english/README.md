@@ -2,7 +2,7 @@
 
 ```
 name: English US
-symbol: en-us
+symbol: enus
 ```
 
 # Contributors
